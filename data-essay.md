@@ -23,3 +23,4 @@
 
 Формат данных: xls.
 
+ <a href="https://hubofdata.ru/dataset/musicmsk">Данные на портале CKAN</a>
